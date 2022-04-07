@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/drawable/bgedittetxt.xml" value="0.18333333333333332" />
         <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_home.xml" value="0.18" />
         <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_profile.xml" value="0.1" />
-        <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/activity_setting.xml" value="0.25" />
         <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/fragment_home.xml" value="0.18614130434782608" />
         <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/fragment_profile.xml" value="0.18614130434782608" />
         <entry key="..\:/gllnt/transfer/PCS/sem 2 transfer/fintech/aplikasi/app/src/main/res/layout/fragment_setting.xml" value="0.18614130434782608" />
