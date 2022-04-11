@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplikasiFintech">
         <activity
-            android:name=".setting.SettingActivity"
+            android:name=".profile.ProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".profile.ProfileActivity"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".home.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".setting.SettingActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
